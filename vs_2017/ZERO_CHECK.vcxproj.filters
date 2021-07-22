@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mathew\unrealProjects\hIK\Externals\ticpp\vs_2017\CMakeFiles\ef97e16703576c6c2041c48a0726d3ec\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BBFC3277-1C2A-3CDC-B0E7-1E3322183F56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
